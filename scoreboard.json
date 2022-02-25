@@ -1,0 +1,57 @@
+[
+{
+"event_id": "1233827",
+"event_date": "12-01-2020",
+"event_time": "15:05",
+"away_team_id": "42",
+"away_nick_name": "Texans",
+"away_city": "Houston",
+"home_team_id": "63",
+"home_nick_name": "Chiefs",
+"home_city": "Kansas City"
+},
+{
+"event_id": "1233912",
+"event_date": "12-01-2020",
+"event_time": "18:40",
+"away_team_id": "52",
+"away_nick_name": "Seahawks",
+"away_city": "Seattle",
+"home_team_id": "39",
+"home_nick_name": "Packers",
+"home_city": "Green Bay"
+},
+{
+"event_id": "1234560",
+"event_date": "19-01-2020",
+"event_time": "15:05",
+"away_team_id": "62",
+"away_nick_name": "Titans",
+"away_city": "Tennessee",
+"home_team_id": "63",
+"home_nick_name": "Chiefs",
+"home_city": "Kansas City"
+},
+{
+"event_id": "1234565",
+"event_date": "19-01-2020",
+"event_time": "18:40",
+"away_team_id": "39",
+"away_nick_name": "Packers",
+"away_city": "Green Bay",
+"home_team_id": "58",
+"home_nick_name": "49ers",
+"home_city": "San Francisco"
+},
+{
+"event_id": "1234522",
+"event_date": "22-01-2020",
+"event_time": "15:40",
+"away_team_id": "39",
+"away_nick_name": "Packers",
+"away_city": "Green Bay",
+"home_team_id": "22",
+"home_nick_name": "Haligonians",
+"home_city": "Halifax"
+}
+]
